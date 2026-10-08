@@ -1,0 +1,10 @@
+auraguard-pipeline/
+├── src/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── edge_processor.py
+│   ├── main_api.py
+│   └── dashboard.py
+├── docker-compose.yml
+├── requirements.txt
+└── README.md
